@@ -1,0 +1,16 @@
+year,geo_name,geo,income,income_moe
+2013,"United States","01000US",52250.0,65.0
+2013,"Washington","04000US53",58405.0,671.0
+2013,"King County, WA","05000US53033",71834.0,1072.0
+2013,"Seattle-Tacoma-Bellevue, WA Metro Area","31000US42660",67479.0,899.0
+2013,"Seattle, WA","16000US5363000",70172.0,2604.0
+2014,"United States","01000US",53657.0,93.0
+2014,"Washington","04000US53",61366.0,485.0
+2014,"King County, WA","05000US53033",75834.0,1400.0
+2014,"Seattle-Tacoma-Bellevue, WA Metro Area","31000US42660",71273.0,768.0
+2014,"Seattle, WA","16000US5363000",70975.0,1912.0
+2015,"United States","01000US",55775.0,85.0
+2015,"Washington","04000US53",64129.0,794.0
+2015,"King County, WA","05000US53033",81916.0,1129.0
+2015,"Seattle-Tacoma-Bellevue, WA Metro Area","31000US42660",75331.0,871.0
+2015,"Seattle, WA","16000US5363000",80349.0,2572.0
