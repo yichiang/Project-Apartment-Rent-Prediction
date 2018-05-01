@@ -1,31 +1,24 @@
 # Goal
-Predict Seattle apartment price
+Prediction for the Seattle Apartment Rent
 
-# Expected data
 
-1. Zillow Data for training target value.
+[Presenation Link](https://www.canva.com/design/DAC2UMCyEVg/view)
 
+# Data Source
+
+1. Zillow Research Data
 https://www.zillow.com/research/data/
 
-Columns Year, 
-Month,
-Zip Code, 
-Bed Room Count (0=Studio), 
-Median rental Rate
 
-2. Technology companies by zip code
-
-employee, 
-zipcode
-
-3. Seattle salary rate over time
-
-Optional data source
-* Only 2013 - 2016
-https://www.census.gov/topics/income-poverty/income/data/tables.html
+2. Redfin Data
 https://www.redfin.com/blog/data-center
 
-4. SEO Google Seattle Apartment Search rate
-https://trends.google.com/trends/explore?q=Seattle%20Apartment
+3. Google Trend
+https://trends.google.com/trends/
 
-5. H1, Student visa data
+4. Web Scrapping for Google News
+
+
+5. Yahoo Finance
+https://finance.yahoo.com/
+
