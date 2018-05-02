@@ -1,5 +1,7 @@
-# Goal
-Prediction for the Seattle Apartment Rent
+# Prediction for the Seattle Apartment Rent
+
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/yichiang/metis-project-2/master)
 
 
 [Presenation Link](https://www.canva.com/design/DAC2UMCyEVg/view)
